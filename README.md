@@ -4,4 +4,4 @@
 - Jenkins pulls the update into its own clone of the Git repository.
 - The build process compiles all the source artefacts.
 - And finally the results are packaged in a RPM file.
-* karthickmurugadhas@gmail.com
+* karthickmurugadhas@gmail.com (20-APR-2017)
