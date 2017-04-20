@@ -9,9 +9,9 @@ Summary:        Hiback backup client for Linux x64 servers RHEL6
 Group:          Applications/System
 License:        Hiback proprietary
 URL:            http://stoge.pn.tieto.com/versiot/unixver.html
-Source0:        S961su2613.x64-1.0.1.tar
-Source1:        hiserv
-Source2:        cleanxfiles.tar
+Source0:        http://192.168.2.9:8080/artifactory/S961su2613.x64-1.0.1.tar
+Source1:        http://192.168.2.9:8080/artifactory/hiserv
+Source2:        http://192.168.2.9:8080/artifactory/cleanxfiles.tar
 
 BuildRoot:      $RPM_BUILD_ROOT
 BuildArch:      x86_64
